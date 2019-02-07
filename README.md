@@ -19,24 +19,24 @@ No separate training and testing data are available.You have to divinde the data
 
 
 
-## Judgement Criteria
+# Judgement Criteria
 
-### 1. Data Preprocessing 
+## 1. Data Preprocessing 
 How you preprocess the data for input into the model.Involves removing null values, vectorization, serialization , binarisation etc.Tuning of Parameters wherever necessary is expected.The pre-processing of your code should be well commented and justified.You need to upload the processed data-set in the format which was given to you.If .csv then upload the processed file in .csv.If .json then .json.
 You should also consider removing outliers and sensetive data.Proper description and visulation of outliers using boxplots and charts is expected.
 **Make it as visual as you can using graphs(For ex. Seaborn library)** and justify why you performed the given technique for preprocessing.You also need to divide the dataset in training and testing in 7:3 ratio respectively.After 3 hours every team must upload their testing dataset for us to evaluate.
 
 
 
-### 2. Model Building
+## 2. Model Building
 After building your training data, you need to use a modelling algorithm to make your predictions.You need to justify as to why you have used that particular algorithm in the text document.
 
 
-### 3. Evaluation
+## 3. Evaluation
 Your model will be evaluated on the basis of Accuracy,Precision, F-measure and ROC Curve.The accuaracy measure shouldn't be very high as that will lead to an overfitted model.We will run your model on your testing set and find out the accuracy measures.**Do not overfit**.Accuracy above 95% is not desirable.Try to keep it in the range on (85-95)%.Your confusion matrix must be prepared from the testing data only.
 
 
-### Information of the data sets
+# Information of the data sets
 
 ## 1. weatherAus.csv
 Weather Data of Various cities of Australia.Predict whether is it going to rain on a particular time in a particular city.
