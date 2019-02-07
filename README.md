@@ -36,7 +36,16 @@ After building your training data, you need to use a modelling algorithm to make
 Your model will be evaluated on the basis of Accuracy,Precision, F-measure and ROC Curve.The accuaracy measure shouldn't be very high as that will lead to an overfitted model.We will run your model on your testing set and find out the accuracy measures.**Do not overfit**.Accuracy above 95% is not desirable.Try to keep it in the range on (85-95)%.Your confusion matrix must be prepared from the testing data only.
 
 
-### Information of the 
+### Information of the data sets
+
+1. weatherAus.csv
+Weather Data of Various cities of Australia.Predict that is it going to rain on a particular time in a particular city.
+
+2. Sarcasm_Headlines_Dataset.json
+By reading the headline of the given news article.Predict whether it is sarcastic or not.
+
+3. hack_data.csv
+By 
 
 
 
