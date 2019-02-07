@@ -14,7 +14,7 @@ No separate training and testing data are available.You have to divinde the data
 6. Uplaod all the required graphs with description in the text document.
 7. You need to comment the description of each library used.
 8. Your model will be evaluated on the basis of Accuracy,Precision, F-measure and ROC Curve.
-9. The accuaracy measure shouldn't be very high as that will lead to an overfitted model.
+9. The accuaracy measure shouldn't be very high as that will lead to an overfitted model.Accuracy in the range of (85-95)%.
 10. The decision of the Qrganizers is final and binding.
 
 
@@ -33,7 +33,7 @@ After building your training data, you need to use a modelling algorithm to make
 
 
 ### 3. Evaluation
-Your model will be evaluated on the basis of Accuracy,Precision, F-measure and ROC Curve.The accuaracy measure shouldn't be very high as that will lead to an overfitted model.We will run your model on your training set and find out the accuracy measures.**Do not overfit**.Accuracy above 95% is not desirable.Try to keep it in the range on (85-95)%.Your confusion matrix must be prepared from the testing data only.
+Your model will be evaluated on the basis of Accuracy,Precision, F-measure and ROC Curve.The accuaracy measure shouldn't be very high as that will lead to an overfitted model.We will run your model on your testing set and find out the accuracy measures.**Do not overfit**.Accuracy above 95% is not desirable.Try to keep it in the range on (85-95)%.Your confusion matrix must be prepared from the testing data only.
 
 
 
