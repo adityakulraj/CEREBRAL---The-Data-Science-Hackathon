@@ -38,17 +38,17 @@ Your model will be evaluated on the basis of Accuracy,Precision, F-measure and R
 
 ### Information of the data sets
 
-##1. weatherAus.csv
+## 1. weatherAus.csv
 Weather Data of Various cities of Australia.Predict whether is it going to rain on a particular time in a particular city.
 
-##2. Sarcasm_Headlines_Dataset.json
+## 2. Sarcasm_Headlines_Dataset.json
 By reading the headline of the given news article.Predict whether it is sarcastic or not.
 
-##3. bank_note_data.csv
+## 3. bank_note_data.csv
 Detect whether the given Bank Note is real or fake.
 
-##4. googleplaystore.csv
+## 4. googleplaystore.csv
 Predict the no. of Downloads/Installs of the given app on Play Store.
 
-#35.sentimentanalysis.csv
+## 5.sentimentanalysis.csv
 Predict whether the given review is positive or negetive.
