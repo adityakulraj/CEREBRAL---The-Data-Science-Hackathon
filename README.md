@@ -3,7 +3,7 @@
 **Given here are the datasets that you can work on for the competetion.**
 5 datasets.5 separate folders.
 Open each folder to view the description of each dataset and the prediction task that you have to perform on the dataset.
-No separate training and testing data are available.You have to divinde the data file separately into training and testing data in 7:3 ratio.
+No separate training and testing data are available.You have to divide the data file separately into training and testing data in 7:3 ratio.
 # Rules
 1. You have to perform the data analysis in Jupyter Notebook(Python).The team has to upload their notebook after the time ends.
 2. You hav 6 hours to perform the required analysis.
