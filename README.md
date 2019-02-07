@@ -11,11 +11,11 @@ No separate training and testing data are available.You have to divinde the data
 4. We expect original code.As each analysis is unique.If we find out that you have copied the source code from the web you shall be disqualified immediately.We also have your own plagiarism checker. Feel free to use it :P. 
     **https://github.com/adityakulraj/plagiarismchecker**
 5. After the time is up you need to upload your source code with a required explaination of how you have performed the analysis in a text document.
-6.Uplaod all the required graphs with description in the text document.
+6. Uplaod all the required graphs with description in the text document.
 7. You need to comment the description of each library used.
 8. Your model will be evaluated on the basis of Accuracy,Precision, F-measure and ROC Curve.
-9.The accuaracy measure shouldn't be very high as that will lead to an overfitted model.
-10.The decision of the Qrganizers is final and binding.
+9. The accuaracy measure shouldn't be very high as that will lead to an overfitted model.
+10. The decision of the Qrganizers is final and binding.
 
 
 
