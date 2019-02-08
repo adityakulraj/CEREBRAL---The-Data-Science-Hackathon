@@ -6,7 +6,7 @@ Open each folder to view the description of each dataset and the prediction task
 No separate training and testing data are available.You have to divide the data file separately into training and testing data in 7:3 ratio.
 # Rules
 1. You have to perform the data analysis in Jupyter Notebook(Python).The team has to upload their notebook after the time ends.
-2. You hav 6 hours to perform the required analysis.
+2. You hav 5 hours to perform the required analysis.
 3. After 3 hours submit your testing data by uploading on your git and sharing the git link.
 4. We expect original code.As each analysis is unique.If we find out that you have copied the source code from the web you shall be disqualified immediately.We also have your own plagiarism checker. Feel free to use it :P. 
     **https://github.com/adityakulraj/plagiarismchecker**
