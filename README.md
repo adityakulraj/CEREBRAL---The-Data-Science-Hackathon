@@ -15,7 +15,7 @@ No separate training and testing data are available.You have to divide the data 
 7. You need to comment the description of each library used.
 8. Your model will be evaluated on the basis of Accuracy,Precision, F-measure and ROC Curve.
 9. The accuaracy measure shouldn't be very high as that will lead to an overfitted model.Accuracy in the range of (85-95)%.
-10. The decision of the Qrganizers is final and binding.
+10. The decision of the Organizers is final and binding.
 
 
 
